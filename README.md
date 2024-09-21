@@ -3,6 +3,6 @@
 
  Repositório criado em uma aula.
  
-Essa linha eu alterie diretamente no site.
+Essa linha eu alterei diretamente no site.
  
 
